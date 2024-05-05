@@ -56,11 +56,11 @@ Note: `UID` is the uuid you want to set. pages.dev and worker.dev all of them me
    ```
 
    note: uuid1, uuid2, uuid3 are separated by commas`,`.
-   when you set multiple uuid, you can use `https://edtunnel.pages.dev/uuid1` to get the clash config and vless:// link.
+   when you set multiple uuid, you can use `https://edtunnel.pages.dev/config/user/uuid1` to get the clash config and vless:// link.
 
 ## subscribe vless:// link (Optional)
 
-1. visit `https://edtunnel.pages.dev/uuid your set` to get the subscribe link.
+1. visit `https://edtunnel.pages.dev/config/user/uuid your set` to get the subscribe link.
 
 2. visit `https://edtunnel.pages.dev/sub/uuid your set` to get the subscribe content with `uuid your set` path.
 
