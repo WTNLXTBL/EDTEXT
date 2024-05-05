@@ -116,7 +116,7 @@ The path `/uuid your seetting` to get the clash config and vless:// link.
 
 <a href="https://star-history.com/#WTNLXTBL/EDTEXT&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=3Kmfi6HP/EDtunnel&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=WTNLXTBL/EDTEXT&type=Date&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=WTNLXTBL/EDTEXT&type=Date" />
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=
     WTNLXTBL/EDTEXT&type=Date" />
