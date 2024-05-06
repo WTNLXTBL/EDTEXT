@@ -14,7 +14,7 @@ let RelayIP = RelayIPs[Math.floor(Math.random() * RelayIPs.length)];
 // ipv6 RelayIP example remove comment to use
 // let RelayIP = "[2a01:4f8:c2c:123f:64:5:6810:c55a]"
 
-let dohURL = 'https://sky.rethinkdns.com/1:-Pf_____9_8A_AMAIgE8kMABVDDmKOHTAKg='; // https://cloudflare-dns.com/dns-query or https://dns.google/dns-query
+let dohURL = 'https://dns.google/dns-query'; // https://cloudflare-dns.com/dns-query or https://dns.google/dns-query
 
 if (!isValidUUID(UserID)) {
 	throw new Error('uuid is invalid');
